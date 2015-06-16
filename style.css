@@ -1,0 +1,142 @@
+.judul {
+	font-family: Georgia;
+	font-size: 20px;
+	line-height: 170%;
+	font-weight: normal;
+	color: #030303;
+}
+.menu_blue {
+	color: #0033FF;
+	text-decoration: none;
+}
+.menukanan {
+	background-color: #0033FF;
+	padding-bottom: 5px;
+	text-align: center;
+	padding-top: 5px;
+}
+.listcontent {
+	color: #FF0000;
+	text-decoration: underline;
+}
+.tabelbawah {
+	border: thin solid #CCCCCC;
+}
+
+
+.menupojok {
+	padding-top: 2px;
+	padding-right: 10px;
+	padding-bottom: 2px;
+	padding-left: 2px;
+	color: #0033FF;
+	text-decoration: none;
+	font-weight: bold;
+	font-family: Arial;
+	font-size: 12px;
+}
+
+#news {
+	height: auto;
+	width: 300px;
+	padding-right: 5px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	color: #999999;
+}
+#news2 {
+	height: auto;
+	width: 300px;
+	padding-right: 5px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	border-right-width: thin;
+	border-left-width: thin;
+	border-right-style: dashed;
+	border-left-style: dashed;
+	border-right-color: #CCCCCC;
+	border-left-color: #CCCCCC;
+	color: #999999;
+}
+.layout {
+	border-right-width: thin;
+	border-left-width: thin;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-right-color: #F2F2F2;
+	border-left-color: #F2F2F2;
+}
+#content {
+	height: auto;
+	width: auto;
+	padding-top: 5px;
+	padding-right: 25px;
+	padding-bottom: 5px;
+	padding-left: 15px;
+	font-family: Arial;
+	font-size: 12px;
+}
+#menu {
+	padding: 5px;
+	height: 15px;
+	width: auto;
+	color: #0033FF;
+	font-family: Arial;
+	font-size: 14px;
+	font-weight: bold;
+	text-decoration: none;
+}
+.menu_kanan {
+	background-color: #0033FF;
+	height: 50px;
+	width: 150px;
+	position: static;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+.linkbawah {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+
+.footer2 {
+	color: #FFFFFF;
+	font-size: 11px;
+}
+.judulnews {
+	color: #FF0000;
+}
+
+.footer {
+	background-color: #0033FF;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.layout .footer a {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+
+.date {
+	font-size: 10px;
+	line-height: 135%;
+	font-style: italic;
+}
+.posting {
+	font-size: 11px;
+}
+.agenda {
+	font-weight: bold;
+}
+.kategori {
+	color: #FF0000;
+	text-decoration: underline;
+	padding-bottom: 5px;
+}
+a {
+	text-decoration: none;
+}
